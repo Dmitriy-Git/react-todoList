@@ -1,3 +1,10 @@
+
+# Приложение TodoList, написанное на React с применением функциональных компонентов.
+Состояние в функциональные компоненты добавляется с помощью хука useState.
+Используется Context для передачи свойств. Применяется хук useContext.
+## Ниже написаны основные команды для запуска проекта.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
